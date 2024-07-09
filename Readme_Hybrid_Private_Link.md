@@ -9,4 +9,4 @@ A retail company's inventory management system, leveraging webMethods iPaas as A
 ![High level flow](https://github.com/bramhanayaghea/webMethodsCAF/blob/develop/architectureModels/SaaSToOnPremiseIaaS/_images/A1-Deployment-PvtLnk.jpg)
 
 This currently includes
-1. [Pattern 2](https://github.com/wMTiG/webmethods-cloud-adoption-framework/blob/develop/architectureModels/SaaSToOnPremiseIaaS/PatternDescriptionWtPrivateLink.md): Synchronous Hybrid via HTTP over Private Link
+1. [Pattern](https://github.com/wMTiG/webmethods-cloud-adoption-framework/blob/develop/architectureModels/SaaSToOnPremiseIaaS/PatternDescriptionWtPrivateLink.md): Synchronous Hybrid via HTTP over Private Link
